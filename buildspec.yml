@@ -2,4 +2,4 @@ version: 0.1
 phases:
   build:
     commands:
-      - mvn verify sonar:sonar -Dsonar.projectKey=javaplayground1234 -Dsonar.organization=javaplayground1234 -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=ac011ea7b41dac63bb234ed5480b23a6eb62dc4a
+      - mvn verify sonar:sonar -Dsonar.projectKey=javaplayground1234 -Dsonar.organization=java-reachable-goof -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=e8addc749a4b1d4658c84d21a224ed2fe711d7b4
