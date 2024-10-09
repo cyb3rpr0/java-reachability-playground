@@ -1,6 +1,3 @@
-public class calculator {
-    
-}
 public class Calculator {
 
     public int addition(String arguments) {
